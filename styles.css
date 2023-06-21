@@ -5,6 +5,6 @@
 }
 .box:after
 {
-	content:After element;
+	content:After Element;
 	color:red;
 }/*  your css code here. If applicable */
